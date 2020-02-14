@@ -8,3 +8,4 @@ sourcetree branch add second
 sourcetree branch add 3
 sourcetree branch add 4
 sourcetree branch add 5
+sourcetree branch add 6
