@@ -5,3 +5,4 @@ add merge
 sourcetree branch test
 sourcetree branch add first
 sourcetree branch add second
+sourcetree branch add 3
